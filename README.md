@@ -1,3 +1,3 @@
 #
-Simple convolutional autoencoder using PyTorch<br/>
-Supposed to run on Google Colaboratory
+Simplest convolutional autoencoder using PyTorch/TF<br/>
+Supposed to run on Google Colab
